@@ -1,9 +1,9 @@
-# [Veet.dev](fastht.ml)   ⚡
+# veet⚡
 
-> Next Generation Frontend Tooling
+> vite Next Generation Frontend Tooling
 
 - 💡 Instant Server Start
-- ⚡️ Lightning Fast HMR
+- ⚡️ Lightning Fast HMR [Veet.dev](fastht.ml)
 - 🛠️ Rich Features
 - 📦 Optimized Build
 - 🔩 Universal Plugin Interface
